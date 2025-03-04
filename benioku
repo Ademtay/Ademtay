@@ -1,0 +1,118 @@
+# 👋 Hello World! I'm [Your Name]
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=17+yo+Developer+%26+Designer;Passionate+Entrepreneur;UWC+Aspirant;From+Morocco+to+France" alt="Typing SVG" />
+</div>
+
+## 🚀 About Me
+
+```javascript
+const developer = {
+    name: "[Your Name]",
+    age: 17,
+    location: "France",
+    origin: "Morocco",
+    interests: [
+        "Software Development",
+        "Game Development",
+        "Web Design",
+        "Logo Design",
+        "Blockchain",
+        "Entrepreneurship"
+    ],
+    goals: [
+        "UWC Admission",
+        "Building Innovative Projects",
+        "Making a Global Impact"
+    ],
+    support: "Amazing Family Support System"
+};
+```
+
+## 💻 Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white" />
+</div>
+
+## 🌟 Featured Projects
+
+### 🏦 Multi-Signature Wallet
+A secure Ethereum-based multi-signature wallet implementation with React frontend.
+
+[![Multi-Sig Wallet](https://img.shields.io/badge/View_Project-2D9EF7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/multi-sig-wallet)
+
+### 🎮 [Your Game Project]
+Description of your game project...
+
+### 🎨 [Your Design Portfolio]
+Link to your design portfolio...
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+</div>
+
+## 🌍 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+## 🎯 Current Goals
+
+- [ ] UWC Application Success
+- [ ] Launch First Blockchain Project
+- [ ] Build Global Network
+- [ ] Create Impactful Solutions
+
+## 💡 Fun Fact
+
+```python
+while True:
+    code()
+    learn()
+    create()
+    inspire()
+    repeat()
+```
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Readme Quotes" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
