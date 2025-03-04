@@ -1,26 +1,85 @@
-# Hi 👋, I'm Toprak Ataoglu
+  # Hi 👋, I'm AdemStay
 
-<div align="center">
+ <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=435&lines=Front-end+Developer;Entrepreneur;UI%2FUX+Designer" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Front-end Developer with Entrepreneur from Turkey 🇹🇷</h3>
+<h3 align="center">Game developer and entrepreneur living in France</h3>
 
-<div align="center">
-  <p>🚀 Passionate about creating beautiful and functional web experiences</p>
-  <p>💡 Currently focusing on Frontend Development and UI/UX Design</p>
-  <p>🌱 Always learning and exploring new technologies</p>
-  <p>🎯 Building innovative solutions for real-world problems</p>
-</div>
+## 📊 GitHub Stats
 
-<div align="center">
-  <h4>🛠 Current Tech Focus</h4>
-  <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/UI%2FUX-FF4088?style=flat&logo=figma&logoColor=white" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdemStay&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemStay&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
-// ... existing code ...
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TPashaxrd&theme=tokyonight" alt="TPashaxrd" />
+</p>
+
+## 🛠️ My Tech Stack
+
+<h3 align="center">Languages</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c" />
+  </a>
+</p>
+
+<h3 align="center">web development</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,figma" />
+  </a>
+</p>
+
+<h3 align="center">Backend Development</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  </a>
+</p>
+
+<h3 align="center">Tools & Technologies</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,linux,arduino,flutter,docker" />
+  </a>
+</p>
+
+## 🤝 Connect with me
+
+<p align="center">
+  <a href="mailto:ademstay36@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.gg/ademstay">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.youtube.com/">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TPashaxrd&theme=tokyo-night" alt="Activity Graph" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdemStay&theme=tokyonight&column=7" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdemStay&color=blueviolet&style=flat" alt="Profile Views" />
+</p>      
