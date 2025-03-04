@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Blockchain+Developer;UI%2FUX+Designer" alt="Typing SVG" />
 </div>
 
-// ... rest of the existing content ...
+// 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=435&lines=Front-end+Developer;Entrepreneur;UI%2FUX+Designer" alt="Typing SVG" />
 </div>
