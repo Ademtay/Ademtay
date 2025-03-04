@@ -1,0 +1,52 @@
+Proje Yapısı:
+Modern bir React uygulaması
+TypeScript ile tip güvenliği
+Tailwind CSS ile modern ve responsive tasarım
+CoinGecko API entegrasyonu ile gerçek zamanlı kripto para verileri
+Ana Sayfa (Home.tsx):
+En popüler 100 kripto paranın listesi
+Her kripto para için:
+İsim ve sembol
+Güncel fiyat
+24 saatlik fiyat değişimi (yeşil/kırmızı renk kodlaması)
+Kripto para logosu
+Responsive grid tasarımı (mobil, tablet ve masaüstü için farklı sütun sayıları)
+Detay Sayfası (CoinDetail.tsx):
+Seçilen kripto paranın detaylı bilgileri:
+Büyük logo
+Güncel fiyat
+24 saatlik değişim
+Market değeri
+24 saatlik en yüksek ve en düşük fiyatlar
+Chart.js ile 7 günlük fiyat grafiği
+Responsive tasarım
+Favoriler Sayfası (Favorites.tsx):
+Kullanıcının favori kripto paralarını kaydetme özelliği
+LocalStorage kullanarak verileri tarayıcıda saklama
+Favorilerden kaldırma özelliği
+Her favori kripto para için:
+Logo
+İsim ve sembol
+Güncel fiyat
+24 saatlik değişim
+Navigasyon (Navbar.tsx):
+Ana sayfa ve Favoriler sayfası arasında geçiş
+Responsive tasarım
+Modern ve temiz görünüm
+Teknik Özellikler:
+React Router ile sayfa yönlendirme
+Axios ile API istekleri
+Chart.js ile grafik gösterimi
+Tailwind CSS ile modern UI
+TypeScript ile tip güvenliği
+LocalStorage ile veri saklama
+Kullanıcı Deneyimi:
+Yükleme durumları için animasyonlu göstergeler
+Responsive tasarım ile her cihazda uyumlu görünüm
+Kolay kullanılabilir arayüz
+Hata durumları için uygun mesajlar
+API Entegrasyonu:
+CoinGecko API kullanımı
+Gerçek zamanlı kripto para verileri
+Fiyat, hacim ve market değeri bilgileri
+Geçmiş fiyat verileri
