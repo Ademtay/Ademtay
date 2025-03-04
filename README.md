@@ -16,15 +16,7 @@
 |__/  |__/  \_______/ \_______/|__/ |__/ |__/      \______/    \___/   \_______/ \____  $$
                                                                                    /$$  | $$
                                                                                   |  $$$$$$/
-                                                                                   \______/
-```
-
-// ... rest of existing code ...```
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=435&lines=Front-end+Developer;Entrepreneur;Game+Developer;UI%2FUX+Designer" alt="Typing SVG" />
-</div>
-
+                                                                          
 <h3 align="center">⚡ Game Developer & Entrepreneur from France 🇫🇷 ⚡</h3>
 
 <div align="center">
