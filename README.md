@@ -1,34 +1,72 @@
-  # Hi 👋, I'm AdemStay
+# Hi 👋, I'm AdemStay
 
- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=435&lines=Front-end+Developer;Entrepreneur;UI%2FUX+Designer" alt="Typing SVG" />
+<div align="center">
+
+```
+ /$$$$$$       /$$                         /$$$$$$   /$$                      
+|__  $$       | $$                       /$$__  $$ | $$                      
+   | $$   /$$$$$$$  /$$$$$$  /$$$$$$/$$$| $$  \__//$$$$$$   /$$$$$$  /$$   /$$
+   | $$  /$$__  $$ /$$__  $$| $$_  $$_/| $$$$$$$|_  $$_/  |____  $$| $$  | $$
+   | $$ | $$  | $$| $$$$$$$$| $$ \ $$  | $$__  $$ | $$     /$$$$$$$$| $$  | $$
+   | $$ | $$  | $$| $$_____/| $$ | $$  | $$  \ $$ | $$ /$$/$$__  $$| $$  | $$
+ /$$$$$$|  $$$$$$$|  $$$$$$$| $$ | $$  |  $$$$$$/ |  $$$$|  $$$$$$$|  $$$$$$$
+|______/ \_______/ \_______/|__/ |__/   \______/   \___/  \_______/ \____  $$
+                                                                    /$$  | $$
+                                                                   |  $$$$$$/
+                                                                    \______/ 
+```
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=435&lines=Front-end+Developer;Entrepreneur;Game+Developer;UI%2FUX+Designer" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Game developer and entrepreneur living in France</h3>
+<h3 align="center">⚡ Game Developer & Entrepreneur from France 🇫🇷 ⚡</h3>
 
-## 📊 GitHub Stats
+<div align="center">
+  <p>🎮 Crafting Digital Experiences | Building Dreams into Reality</p>
+  <p>🚀 Passionate Game Developer & Creative Entrepreneur</p>
+  <p>💻 Full Stack Development & UI/UX Design Enthusiast</p>
+  <p>🌟 Always Exploring New Technologies & Opportunities</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdemStay&show_icons=true&theme=tokyonight" height="165"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## 🎯 Current Focus
+
+- 🎮 Working on **Innovative Game Projects**
+- 🌱 Learning **Advanced Game Development & AR/VR**
+- 👯 Looking to collaborate on **Creative Gaming Solutions**
+- 💡 Interested in **Game Design & User Experience**
+- 🎯 2024 Goals: **Launch Multiple Game Titles**
 
 ## 💻 Most Used Languages
 
 <div align="center">
 
+| Language    | Percentage | Bar |
+|------------|-----------|-----|
+| JavaScript | 62.82%    | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 |
+| CSS        | 22.57%    | 🟪🟪🟪🟪 |
+| TypeScript | 4.80%     | 🟦 |
+| Python     | 4.48%     | 🟦 |
+| HTML       | 3.58%     | 🟧 |
+| PHP        | 1.76%     | 🟫 |
 
 </div>
 
-<div align="center">
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdemStay&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemStay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-</div>
-
- 
 </p>
 
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TPashaxrd&theme=tokyonight" alt="TPashaxrd" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdemStay&theme=tokyonight" alt="AdemStay" />
 </p>
 
 ## 🛠️ My Tech Stack
@@ -40,7 +78,7 @@
   </a>
 </p>
 
-<h3 align="center">web development</h3>
+<h3 align="center">Web Development</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,figma" />
@@ -81,7 +119,7 @@
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TPashaxrd&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdemStay&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ## 🏆 GitHub Trophies
@@ -94,4 +132,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdemStay&color=blueviolet&style=flat" alt="Profile Views" />
-</p>      
+</p>
