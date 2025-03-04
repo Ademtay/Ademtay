@@ -16,14 +16,6 @@
 
 <div align="center">
 
-| Language    | Percentage | Bar |
-|------------|-----------|-----|
-| JavaScript | 62.82%    | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 |
-| CSS        | 22.57%    | 🟪🟪🟪🟪 |
-| TypeScript | 4.80%     | 🟦 |
-| Python     | 4.48%     | 🟦 |
-| HTML       | 3.58%     | 🟧 |
-| PHP        | 1.76%     | 🟫 |
 
 </div>
 
