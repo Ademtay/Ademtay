@@ -22,7 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemStay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 </div>
 
-// ... rest of existing code ...
  
 </p>
 
