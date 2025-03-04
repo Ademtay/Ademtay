@@ -1,45 +1,5 @@
-<div align="center">
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&random=false&width=435&lines=Hello+%F0%9F%91%8B+I'm+AdemStay)](https://git.io/typing-svg)
 
-```
- /$$$$$$       /$$                         /$$$$$$   /$$                      
-|__  $$       | $$                       /$$__  $$ | $$                      
-   | $$   /$$$$$$$  /$$$$$$  /$$$$$$/$$$| $$  \__//$$$$$$   /$$$$$$  /$$   /$$
-   | $$  /$$__  $$ /$$__  $$| $$_  $$_/| $$$$$$$|_  $$_/  |____  $$| $$  | $$
-   | $$ | $$  | $$| $$$$$$$$| $$ \ $$  | $$__  $$ | $$     /$$$$$$$$| $$  | $$
-   | $$ | $$  | $$| $$_____/| $$ | $$  | $$  \ $$ | $$ /$$/$$__  $$| $$  | $$
- /$$$$$$|  $$$$$$$|  $$$$$$$| $$ | $$  |  $$$$$$/ |  $$$$|  $$$$$$$|  $$$$$$$
-|______/ \_______/ \_______/|__/ |__/   \______/   \___/  \_______/ \____  $$
-                                                                    /$$  | $$
-                                                                   |  $$$$$$/
-                                                                    \______/ 
-```
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hello+World+%F0%9F%91%8B;I'm+AdemStay;%3C%F0%9F%92%BB+Coding+With+Style+%2F%3E)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Blockchain+Developer;UI%2FUX+Designer" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<h3 align="center">⚡ Full Stack Developer from Turkey 🇹🇷 ⚡</h3>
-
-<div align="center">
-  <p>💻 Turning Coffee into Code | Building Digital Dreams 💻</p>
-  <p>🚀 Crafting elegant solutions to complex problems</p>
-  <p>⚡ Passionate about Web3 and Blockchain Technology</p>
-  <p>🌟 Always exploring new technologies</p>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-// ... rest of the existing content ...
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Blockchain+Developer;UI%2FUX+Designer" alt="Typing SVG" />
 </div>
