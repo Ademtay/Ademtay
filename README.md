@@ -1,32 +1,10 @@
-```
-  ▄▄▄      ▓█████▄ ▓█████  ███▄ ▄███▓  ██████ ▄▄▄█████▓ ▄▄▄     ▓██   ██▓
-▒████▄    ▒██▀ ██▌▓█   ▀ ▓██▒▀█▀ ██▒▒██    ▒ ▓  ██▒ ▓▒▒████▄    ▒██  ██▒
-▒██  ▀█▄  ░██   █▌▒███   ▓██    ▓██░░ ▓██▄   ▒ ▓██░ ▒░▒██  ▀█▄   ▒██ ██░
-░██▄▄▄▄██ ░▓█▄   ▌▒▓█  ▄ ▒██    ▒██   ▒   ██▒░ ▓██▓ ░ ░██▄▄▄▄██  ░ ▐██▓░
- ▓█   ▓██▒░▒████▓ ░▒████▒▒██▒   ░██▒▒██████▒▒  ▒██▒ ░  ▓█   ▓██▒ ░ ██▒▓░
- ▒▒   ▓▒█░ ▒▒▓  ▒ ░░ ▒░ ░░ ▒░   ░  ░▒ ▒▓▒ ▒ ░  ▒ ░░    ▒▒   ▓▒█░  ██▒▒▒ 
-  ▒   ▒▒ ░ ░ ▒  ▒  ░ ░  ░░  ░      ░░ ░▒  ░ ░    ░      ▒   ▒▒ ░▓██ ░▒░ 
-  ░   ▒    ░ ░  ░    ░   ░      ░   ░  ░  ░    ░        ░   ▒   ▒ ▒ ░░  
-      ░  ░   ░       ░  ░       ░         ░                 ░  ░░ ░     
-           ░                                                    ░ ░     
-```
 
-```javascript
-const developer = {
-  name: 'AdemStay',
-  type: 'Full Stack Developer',
-  location: 'Turkey 🇹🇷',
-  status: 'Coding Dreams Into Reality ⚡',
-  coffee: true,
-  debug: function(life) {
-    while(life.hasProblems()) {
-      coffee.drink();
-      code.write();
-      problems.solve();
-    }
-  }
-};
-```
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Blockchain+Developer;UI%2FUX+Designer" alt="Typing SVG" />
+</div>
+
+// ... rest of the existing content ...
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Blockchain+Developer;UI%2FUX+Designer" alt="Typing SVG" />
@@ -51,7 +29,7 @@ const developer = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TPashaxrd&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdemStaya&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPashaxrd&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
