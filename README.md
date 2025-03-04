@@ -10,6 +10,28 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdemStay&show_icons=true&theme=tokyonight" height="165"/>
+  // ... existing code ...
+
+## 💻 Most Used Languages
+
+<div align="center">
+
+| Language    | Percentage | Bar |
+|------------|-----------|-----|
+| JavaScript | 62.82%    | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨 |
+| CSS        | 22.57%    | 🟪🟪🟪🟪 |
+| TypeScript | 4.80%     | 🟦 |
+| Python     | 4.48%     | 🟦 |
+| HTML       | 3.58%     | 🟧 |
+| PHP        | 1.76%     | 🟫 |
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemStay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+</div>
+
+// ... rest of existing code ...
  
 </p>
 
