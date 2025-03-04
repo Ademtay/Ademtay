@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=435&lines=Front-end+Developer;Entrepreneur;UI%2FUX+Designer" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Front-end Developer with Entrepreneur from Turkey 🇹🇷</h3>
+<h3 align="center">Entrepreneur and game developer from France fr</h3>
 
 ## 📊 GitHub Stats
 
