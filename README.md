@@ -16,7 +16,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TPashaxrd&theme=tokyonight" alt="TPashaxrd" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TPashaxrd&theme=tokyonight" alt="AdemStay" />
 </p>
 
 ## 🛠️ My Tech Stack
@@ -52,7 +52,7 @@
 ## 🤝 Connect with me
 
 <p align="center">
-  <a href="mailto:altintoprak06@gmail.com">
+  <a href="mailto:ademstay36@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://instagram.com/">
