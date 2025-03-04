@@ -1,55 +1,57 @@
-# Hi 👋, I'm Toprak Ataoglu
+# Hi 👋, I'm AdemStay
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=435&lines=Front-end+Developer;Entrepreneur;UI%2FUX+Designer" alt="Typing SVG" />
 </div>
 
-<p align="center">Front-end Developer with Entrepreneur from Turkey 🇹🇷</p>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TPashaxrd/count.svg" alt="Profile Views" />
-</div>
-
-## 🏆 GitHub Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TPashaxrd&theme=discord&row=1&column=7" alt="trophies" />
-</div>
+<h3 align="center">Front-end Developer with Entrepreneur from Turkey 🇹🇷</h3>
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TPashaxrd&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TPashaxrd&theme=tokyonight" />
-</div>
 
-## 💻 Languages and Tools
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TPashaxrd&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPashaxrd&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" width="40" height="40" alt="Arduino"/>
-  <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS"/>
-  <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C"/>
-  <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++"/>
-  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS"/>
-  <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma"/>
-  <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter"/>
-  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML"/>
-  <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js"/>
-</div>
+## 🔥 Streak Stats
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="Redux"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind"/>
-  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TPashaxrd&theme=tokyonight" alt="TPashaxrd" />
+</p>
 
-## 📱 Connect with me
-<div align="center">
+## 🛠️ My Tech Stack
+
+<h3 align="center">Languages</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c" />
+  </a>
+</p>
+
+<h3 align="center">Frontend Development</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,figma" />
+  </a>
+</p>
+
+<h3 align="center">Backend Development</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  </a>
+</p>
+
+<h3 align="center">Tools & Technologies</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,linux,arduino,flutter,docker" />
+  </a>
+</p>
+
+## 🤝 Connect with me
+
+<p align="center">
   <a href="mailto:altintoprak06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -62,14 +64,22 @@
   <a href="https://www.youtube.com/">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-</div>
+</p>
 
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TPashaxrd&theme=tokyo-night" alt="Contribution Graph" />
-</div>
+## 📈 GitHub Activity Graph
 
-## 🎯 Profile Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPashaxrd&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TPashaxrd&theme=tokyo-night" alt="Activity Graph" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TPashaxrd&theme=tokyonight&column=7" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TPashaxrd&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
